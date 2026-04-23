@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Practica_Sockets-Hilos.jnlp">
+  <information>
+    <title>Practica_Sockets-Hilos</title>
+    <vendor>Nicolas</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Practica_Sockets-Hilos.jar" size="16193" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="Practica_Sockets-Hilos" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="practica_sockets.hilos.Practica_SocketsHilos"  name="Practica_Sockets-Hilos" />
+  <update check="always"/>
+</jnlp>
