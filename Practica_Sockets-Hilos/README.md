@@ -264,9 +264,6 @@ El servidor mantiene un archivo `servidor.log` con todas las operaciones:
 - **BufferedReader/PrintWriter**: E/S en streams
 - **ZeroTier**: Conectividad remota (opcional)
 
-## 👤 Autor
-
-**Juan Manuel Alonso López**
 
 ## 📄 Licencia
 
